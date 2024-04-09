@@ -28,7 +28,6 @@ public class FirstTestClass {
 
 
 
-
     @AfterAll
     void afterAllMethod(){
         System.out.println("This is the AFTER ALL method");
